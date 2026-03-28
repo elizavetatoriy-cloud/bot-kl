@@ -4,7 +4,7 @@ from telegram import Update
 from telegram.ext import Application, CommandHandler, ContextTypes
 
 # ========== ТОКЕН ==========
-TOKEN = os.environ.get("BOT_TOKEN", "8663635310:AAGDXwTr2JCXp-2oz3gwoTl6oaWyDUoNCnQ")
+TOKEN = os.environ.get("BOT_TOKEN", "8663635310:AAFA3LqkOujqLCGc5Xo_94uBwks126DgcsE")
 
 # ========== ВСЕ ТЕКСТЫ ДЛЯ КОМАНД ==========
 
